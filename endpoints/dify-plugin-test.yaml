@@ -1,0 +1,5 @@
+path: "/uwu/dify-plugin-test/uwu"
+method: "GET"
+extra:
+  python:
+    source: "endpoints/dify-plugin-test.py"
